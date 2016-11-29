@@ -1,6 +1,6 @@
 # github guide
 
-<h1>How to get your workstation read for your first github project.</h1>
+<h2>How to get your workstation read for your first github project.</h2>
 <b>1. Create a github account (If you already have one you can skip to the next step).<br /></b>
 Go to this link: https://github.com/join?source=header-home<br />
 Fill in the details and choose your plan. After that you have to verify your entered email adres and voila, your github account is created and verified.<br />
@@ -22,7 +22,7 @@ Run this command "git clone copiedlink"<br />
 This will copy the entire project to your github folder.<br />
 <br />
 
-<h1> FAQ </h1>
+<h2> FAQ </h2>
 <b>5. What do you do if a project gets updated?</b><br />
 When a project gets updated you open up your command prompt and go to your github folder location by using the command "cd".<br />
 Copy the project linke again and you run the command "git fetch copiedlink"<br />
