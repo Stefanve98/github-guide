@@ -29,3 +29,7 @@ Voila, now you have the entire project on your workstation.<br />
 When a project gets updated you open up your command prompt and go to your github folder location by using the command "cd".<br />
 Copy the project linke again and you run the command "git fetch copiedlink"<br />
 Then the project will fetch the new updated files<br />
+<br />
+<b>How to fork a project</b><br />
+Go to the project you want to fork and click on the fork icon (Right top of the screen). This copies the project to your own github account.<br />
+Now you can clone this project to your workstation and make your own changes.<br />
